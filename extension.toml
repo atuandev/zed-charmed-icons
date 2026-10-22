@@ -2,6 +2,7 @@ id = "charmed-icons"
 name = "Charmed Icons"
 version = "0.10.0"
 schema_version = 1
+icon_themes = ["icon_themes/light-theme.json", "icon_themes/base-theme.json", "icon_themes/warm-theme.json", "icon_themes/soft-theme.json", "icon_themes/named-theme.json"]
 authors = ["littensy", "jmesrje"]
 description = "A charming icon theme for Zed"
 repository = "https://github.com/jmesrje/zed-charmed-icons"
